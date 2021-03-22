@@ -1,231 +1,201 @@
  {
- 	"@context": "http://iiif.io/api/presentation/2/context.json",
- 	"@id": "https://curio-test.lib.utexas.edu/assets/DAMS/utlmisc/utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5/manifests/2/utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5.json",
- 	"@type": "sc:Manifest",
- 	"label": "test",
- 	"metadata": [{
- 			"label": "Creator/Contributor",
- 			"value": [{
- 					"@value": [
- 						"contribuinte (Fun\u00e7\u00e3o)"
- 					],
- 					"@language": "pt"
- 				},
- 				{
- 					"@value": [
- 						"contributor (role)"
- 					],
- 					"@language": "en"
- 				}
- 			]
- 		},
- 		{
- 			"label": "Date Created/Date Issued",
- 			"value": {
- 				"@value": "1444-01-01",
- 				"@language": "en"
- 			}
- 		},
- 		{
- 			"label": "Owning Repository",
- 			"value": {
- 				"@value": [
- 					"Walter Geology Library, University of Texas Libraries, The University of Texas at Austin"
- 				],
- 				"@language": "en"
- 			}
- 		},
- 		{
- 			"label": "Type",
- 			"value": {
- 				"@value": [
- 					"tela de pintura",
- 					"canvas",
- 					"text",
- 					"assustador",
- 					"scary"
- 				],
- 				"@language": "en"
- 			}
- 		},
- 		{
- 			"label": "Form/Medium",
- 			"value": [{
- 					"@value": [
- 						"tela de pintura"
- 					],
- 					"@language": "pt"
- 				},
- 				{
- 					"@value": [
- 						"canvas"
- 					],
- 					"@language": "en"
- 				}
- 			]
- 		},
- 		{
- 			"label": "Genre",
- 			"value": [{
- 					"@value": [
- 						"assustador"
- 					],
- 					"@language": "pt"
- 				},
- 				{
- 					"@value": [
- 						"scary"
- 					],
- 					"@language": "en"
- 				}
- 			]
- 		},
- 		{
- 			"label": "Language",
- 			"value": {
- 				"@value": [
- 					"Portuguese",
- 					"English"
- 				],
- 				"@language": "en"
- 			}
- 		},
- 		{
- 			"label": "Publisher",
- 			"value": [{
- 					"@value": [
- 						"editora"
- 					],
- 					"@language": "pt"
- 				},
- 				{
- 					"@value": [
- 						"publisher"
- 					],
- 					"@language": "en"
- 				}
- 			]
- 		},
- 		{
- 			"label": "Place of Publication",
- 			"value": [{
- 					"@value": [
- 						"lugar"
- 					],
- 					"@language": "pt"
- 				},
- 				{
- 					"@value": [
- 						"place"
- 					],
- 					"@language": "en"
- 				}
- 			]
- 		},
- 		{
- 			"label": "Topic",
- 			"value": [{
- 					"@value": [
- 						"hottopic"
- 					],
- 					"@language": "en"
- 				},
- 				{
- 					"@value": [
- 						"quente"
- 					],
- 					"@language": "pt"
- 				}
- 			]
- 		},
- 		{
- 			"label": "Time Period Covered",
- 			"value": [{
- 					"@value": [
- 						"barroca(feminine)"
- 					],
- 					"@language": "pt"
- 				},
- 				{
- 					"@value": [
- 						"baroque"
- 					],
- 					"@language": "en"
- 				}
- 			]
- 		},
- 		{
- 			"label": "Identifier - UTL DAMS PID",
- 			"value": {
- 				"@value": [
- 					"utlmisc:f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5"
- 				],
- 				"@language": "en"
- 			}
- 		},
- 		{
- 			"label": "Primary Title",
- 			"value": [{
- 					"@value": [
- 						"test"
- 					],
- 					"@language": "test"
- 				},
- 				{
- 					"@value": [
- 						"test"
- 					],
- 					"@language": "en"
- 				}
- 			]
- 		},
- 		{
- 			"label": "Identifier - PID",
- 			"value": "utlmisc:f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5"
- 		},
- 		{
- 			"label": "Thumbnail URI",
- 			"value": "https://curio-test.lib.utexas.edu/assets/DAMS/utlmisc/utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5/TN/utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5.jpg"
- 		},
- 		{
- 			"label": "IIIF Image",
- 			"value": "https://curio-test.lib.utexas.edu/assets/images/utldams_utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5.jp2"
- 		},
- 		{
- 			"label": "Date Added",
- 			"value": "2021-03-22"
- 		}
- 	],
- 	"description": "description",
- 	"thumbnail": "https://curio-test.lib.utexas.edu/assets/DAMS/utlmisc/utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5/TN/utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5.jpg",
- 	"license": "https://creativecommons.org/licenses/by-nc-nd/4.0",
- 	"viewingDirection": "left-to-right",
- 	"sequences": [{
- 		"@type": "sc:Sequence",
- 		"canvases": [{
- 			"@id": "https://curio.lib.utexas.edu/canvas/test.json",
- 			"@type": "sc:Canvas",
- 			"label": "test",
- 			"height": 225,
- 			"width": 225,
- 			"images": [{
- 				"@id": "https://curio.lib.utexas.edu/annotation/test.json",
- 				"@type": "oa:Annotation",
- 				"motivation": "sc:painting",
- 				"resource": {
- 					"@id": "https://iiif-test2.lib.utexas.edu/iiif/2/utldams_utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5.jp2/full/full/0/default.jpg",
- 					"@type": "dctypes:Image",
- 					"format": "image/jpeg",
- 					"height": 225,
- 					"width": 225,
- 					"service": {
- 						"@context": "http://iiif.io/api/image/2/context.json",
- 						"@id": "https://iiif-test2.lib.utexas.edu/iiif/2/utldams_utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5.jp2",
- 						"profile": "http://iiif.io/api/image/2/level2.json"
- 					}
- 				},
- 				"on": "https://curio.lib.utexas.edu/canvas/test.json"
- 			}]
- 		}]
- 	}]
+   "@context": "http://iiif.io/api/presentation/2/context.json",
+   "@id": "https://curio-test.lib.utexas.edu/assets/DAMS/utlmisc/utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5/manifests/2/utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5.json",
+   "@type": "sc:Manifest",
+   "label": "test",
+   "metadata": [
+     {
+       "label": "Creator/Contributor",
+       "value": [
+         {
+           "@value": "contribuinte (Fun\u00e7\u00e3o)",
+           "@language": "pt"
+         },
+         {
+           "@value": "contributor (role)",
+           "@language": "en"
+         }
+       ]
+     },
+     {
+       "label": "Date Created/Date Issued",
+       "value": {
+         "@value": "1444-01-01",
+         "@language": "en"
+       }
+     },
+     {
+       "label": "Owning Repository",
+       "value": {
+         "@value": "Walter Geology Library, University of Texas Libraries, The University of Texas at Austin",
+         "@language": "en"
+       }
+     },
+     {
+       "label": "Type",
+       "value": {
+         "@value": "tela de pintura canvas text assustador scary",
+         "@language": "en"
+       }
+     },
+     {
+       "label": "Form/Medium",
+       "value": [
+         {
+           "@value": "tela de pintura",
+           "@language": "pt"
+         },
+         {
+           "@value": "canvas",
+           "@language": "en"
+         }
+       ]
+     },
+     {
+       "label": "Genre",
+       "value": [
+         {
+           "@value": "assustador",
+           "@language": "pt"
+         },
+         {
+           "@value": "scary",
+           "@language": "en"
+         }
+       ]
+     },
+     {
+       "label": "Language",
+       "value": {
+         "@value": "Portuguese English",
+         "@language": "en"
+       }
+     },
+     {
+       "label": "Publisher",
+       "value": [
+         {
+           "@value": "editora",
+           "@language": "pt"
+         },
+         {
+           "@value": "publisher",
+           "@language": "en"
+         }
+       ]
+     },
+     {
+       "label": "Place of Publication",
+       "value": [
+         {
+           "@value": "lugar",
+           "@language": "pt"
+         },
+         {
+           "@value": "place",
+           "@language": "en"
+         }
+       ]
+     },
+     {
+       "label": "Topic",
+       "value": [
+         {
+           "@value": "hottopic",
+           "@language": "en"
+         },
+         {
+           "@value": "quente",
+           "@language": "pt"
+         }
+       ]
+     },
+     {
+       "label": "Time Period Covered",
+       "value": [
+         {
+           "@value": "barroca(feminine)",
+           "@language": "pt"
+         },
+         {
+           "@value": "baroque",
+           "@language": "en"
+         }
+       ]
+     },
+     {
+       "label": "Identifier - UTL DAMS PID",
+       "value": {
+         "@value": "utlmisc:f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5",
+         "@language": "en"
+       }
+     },
+     {
+       "label": "Primary Title",
+       "value": [
+         {
+           "@value": "test",
+           "@language": "test"
+         },
+         {
+           "@value": "test",
+           "@language": "en"
+         }
+       ]
+     },
+     {
+       "label": "Identifier - PID",
+       "value": "utlmisc:f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5"
+     },
+     {
+       "label": "Thumbnail URI",
+       "value": "https://curio-test.lib.utexas.edu/assets/DAMS/utlmisc/utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5/TN/utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5.jpg"
+     },
+     {
+       "label": "IIIF Image",
+       "value": "https://curio-test.lib.utexas.edu/assets/images/utldams_utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5.jp2"
+     },
+     {
+       "label": "Date Added",
+       "value": "2021-03-22"
+     }
+   ],
+   "description": "description",
+   "thumbnail": "https://curio-test.lib.utexas.edu/assets/DAMS/utlmisc/utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5/TN/utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5.jpg",
+   "license": "https://creativecommons.org/licenses/by-nc-nd/4.0",
+   "viewingDirection": "left-to-right",
+   "sequences": [
+     {
+       "@type": "sc:Sequence",
+       "canvases": [
+         {
+           "@id": "https://curio.lib.utexas.edu/canvas/test.json",
+           "@type": "sc:Canvas",
+           "label": "test",
+           "height": 225,
+           "width": 225,
+           "images": [
+             {
+               "@id": "https://curio.lib.utexas.edu/annotation/test.json",
+               "@type": "oa:Annotation",
+               "motivation": "sc:painting",
+               "resource": {
+                 "@id": "https://iiif-test2.lib.utexas.edu/iiif/2/utldams_utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5.jp2/full/full/0/default.jpg",
+                 "@type": "dctypes:Image",
+                 "format": "image/jpeg",
+                 "height": 225,
+                 "width": 225,
+                 "service": {
+                   "@context": "http://iiif.io/api/image/2/context.json",
+                   "@id": "https://iiif-test2.lib.utexas.edu/iiif/2/utldams_utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5.jp2",
+                   "profile": "http://iiif.io/api/image/2/level2.json"
+                 }
+               },
+               "on": "https://curio.lib.utexas.edu/canvas/test.json"
+             }
+           ]
+         }
+       ]
+     }
+   ]
  }
