@@ -3,7 +3,7 @@
 	"type": "Manifest",
 	"id": "https://curio-test.lib.utexas.edu/assets/DAMS/utlmisc/utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5/manifests/2/utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5.json",
 	"label": {
-		"none": ["test"]
+		"en": ["English primary title"]
 	},
 	"metadata": [{
 		"label": {
@@ -101,8 +101,8 @@
 			"en": ["Primary Title"]
 		},
 		"value": {
-			"test": ["test"],
-			"en": ["test"]
+			"pt": ["Portuguese primary title"],
+			"en": ["English primary title"]
 		}
 	}, {
 		"label": {
