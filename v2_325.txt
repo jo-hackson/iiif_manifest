@@ -34,7 +34,7 @@
      {
        "label": "Type",
        "value": {
-         "@value": "tela de pintura canvas text assustador scary",
+         "@value": "tela de pintura, canvas, text, assustador, scary",
          "@language": "en"
        }
      },
@@ -67,7 +67,7 @@
      {
        "label": "Language",
        "value": {
-         "@value": "Portuguese English",
+         "@value": "Portuguese, English",
          "@language": "en"
        }
      },
@@ -157,7 +157,7 @@
      },
      {
        "label": "Date Added",
-       "value": "2021-03-22"
+       "value": "2021-03-24"
      }
    ],
    "description": "description",
