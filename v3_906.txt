@@ -7,7 +7,7 @@
 	},
 	"metadata": [{
 		"label": {
-			"en": "Creator/Contributor"
+			"en": ["Creator/Contributor"]
 		},
 		"value": {
 			"pt": ["contribuinte (Fun\u00e7\u00e3o)"],
@@ -15,28 +15,28 @@
 		}
 	}, {
 		"label": {
-			"en": "Date Created/Date Issued"
+			"en": ["Date Created/Date Issued"]
 		},
 		"value": {
 			"en": ["1444-01-01"]
 		}
 	}, {
 		"label": {
-			"en": "Owning Repository"
+			"en": ["Owning Repository"]
 		},
 		"value": {
 			"en": ["Walter Geology Library, University of Texas Libraries, The University of Texas at Austin"]
 		}
 	}, {
 		"label": {
-			"en": "Type"
+			"en": ["Type"]
 		},
 		"value": {
 			"en": ["tela de pintura, canvas, text, assustador, scary"]
 		}
 	}, {
 		"label": {
-			"en": "Form/Medium"
+			"en": ["Form/Medium"]
 		},
 		"value": {
 			"pt": ["tela de pintura"],
@@ -44,7 +44,7 @@
 		}
 	}, {
 		"label": {
-			"en": "Genre"
+			"en": ["Genre"]
 		},
 		"value": {
 			"pt": ["assustador"],
@@ -52,14 +52,14 @@
 		}
 	}, {
 		"label": {
-			"en": "Language"
+			"en": ["Language"]
 		},
 		"value": {
 			"en": ["Portuguese, English"]
 		}
 	}, {
 		"label": {
-			"en": "Publisher"
+			"en": ["Publisher"]
 		},
 		"value": {
 			"pt": ["editora"],
@@ -67,7 +67,7 @@
 		}
 	}, {
 		"label": {
-			"en": "Place of Publication"
+			"en": ["Place of Publication"]
 		},
 		"value": {
 			"pt": ["lugar"],
@@ -75,7 +75,7 @@
 		}
 	}, {
 		"label": {
-			"en": "Topic"
+			"en": ["Topic"]
 		},
 		"value": {
 			"en": ["hottopic"],
@@ -83,7 +83,7 @@
 		}
 	}, {
 		"label": {
-			"en": "Time Period Covered"
+			"en": ["Time Period Covered"]
 		},
 		"value": {
 			"pt": ["barroca(feminine)"],
@@ -91,14 +91,14 @@
 		}
 	}, {
 		"label": {
-			"en": "Identifier - UTL DAMS PID"
+			"en": ["Identifier - UTL DAMS PID"]
 		},
 		"value": {
 			"en": ["utlmisc:f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5"]
 		}
 	}, {
 		"label": {
-			"en": "Primary Title"
+			"en": ["Primary Title"]
 		},
 		"value": {
 			"pt": ["Portuguese primary title"],
@@ -106,7 +106,7 @@
 		}
 	}, {
 		"label": {
-			"en": "Description"
+			"en": ["Description"]
 		},
 		"value": {
 			"pt": ["Descri\u00e7\u00e3o"],
@@ -114,63 +114,63 @@
 		}
 	}, {
 		"label": {
-			"en": "License"
+			"en": ["License"]
 		},
 		"value": {
 			"en": ["https://creativecommons.org/licenses/by-nc-nd/4.0"]
 		}
 	}, {
 		"label": {
-			"en": "Identifier - PID"
+			"en": ["Identifier - PID"]
 		},
 		"value": {
-			"en": "utlmisc:f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5"
+			"en": ["utlmisc:f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5"]
 		}
 	}, {
 		"label": {
-			"en": "Thumbnail URI"
+			"en": ["Thumbnail URI"]
 		},
 		"value": {
-			"en": "https://curio-test.lib.utexas.edu/assets/DAMS/utlmisc/utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5/TN/utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5.jpg"
+			"en": ["https://curio-test.lib.utexas.edu/assets/DAMS/utlmisc/utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5/TN/utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5.jpg"]
 		}
 	}, {
 		"label": {
-			"en": "IIIF Image"
+			"en": ["IIIF Image"]
 		},
 		"value": {
-			"en": "https://curio-test.lib.utexas.edu/assets/images/utldams_utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5.jp2"
+			"en": ["https://curio-test.lib.utexas.edu/assets/images/utldams_utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5.jp2"]
 		}
 	}, {
 		"label": {
-			"en": "IIIF Resource"
+			"en": ["IIIF Resource"]
 		},
 		"value": {
-			"en": "https://curio-test.lib.utexas.edu/assets/images/utldams_utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5.jp2"
+			"en": ["https://curio-test.lib.utexas.edu/assets/images/utldams_utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5.jp2"]
 		}
 	}, {
 		"label": {
-			"en": "Date Added"
+			"en": ["Date Added"]
 		},
 		"value": {
-			"en": "2021-03-24"
+			"en": ["2021-03-24"]
 		}
 	}, {
 		"label": {
-			"en": "Manifest URI"
+			"en": ["Manifest URI"]
 		},
 		"value": {
-			"en": "https://curio-test.lib.utexas.edu/assets/DAMS/utlmisc/utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5/manifests/2/utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5.json"
+			"en": ["https://curio-test.lib.utexas.edu/assets/DAMS/utlmisc/utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5/manifests/2/utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5.json"]
 		}
 	}, {
 		"label": {
-			"en": null
+			"en": [null]
 		},
 		"value": {
-			"en": null
+			"en": [null]
 		}
 	}],
 	"summary": {
-		"en": "description"
+		"en": ["description"]
 	},
 	"thumbnail": [{
 		"id": "https://curio-test.lib.utexas.edu/assets/DAMS/utlmisc/utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5/TN/utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5.jpg",
