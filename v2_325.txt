@@ -1,6 +1,6 @@
  {
    "@context": "http://iiif.io/api/presentation/2/context.json",
-   "@id": "https://curio-test.lib.utexas.edu/assets/DAMS/utlmisc/utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5/manifests/2/utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5.json",
+   "@id": "https://raw.githubusercontent.com/jo-hackson/iiif_manifest/main/v2_325.txt",
    "@type": "sc:Manifest",
    "label": "test",
    "metadata": [
